@@ -11,5 +11,8 @@ Computer Science student passionate about AI, Cybersecurity, and Software Engine
 
 🤝 Let's Connect
 💼 LinkedIn: https://www.linkedin.com/in/aarya-kulkarni-b827a027a/
+
 💻 GitHub: https://github.com/aaryakulkarnii
+
+🥷 Leetcode: https://leetcode.com/u/nDPjO2QCoS/
 

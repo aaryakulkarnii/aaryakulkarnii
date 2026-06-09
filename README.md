@@ -26,26 +26,9 @@
 
 ### `$ whoami`
 
-```python
-class Aarya:
-    name        = "Aarya Kulkarni"
-    location    = "Mumbai, India 🇮🇳"
-    education   = "B.Tech CS @ KJ Somaiya (GPA: 9.0)"
-    focus       = ["AI/LLMs", "Cybersecurity", "Cloud"]
-
-    currently   = {
-        "building" : "SeeThru – Deepfake Detection",
-        "learning" : "LLM Agents & Cloud Security",
-        "hacking"  : "Everything in sight 🥷"
-    }
-
-    ask_me_about = [
-        "Prompt Engineering",
-        "SOC Operations",
-        "AI Product Dev",
-        "Automation Workflows"
-    ]
-```
+Computer Science student at KJ Somaiya College of Engineering.
+Interested in AI, cybersecurity, cloud computing, and software engineering.
+Building AI powered security and deepfake detection systems while exploring LLM agents, SOC operations, and automation.
 
 <br clear="right"/>
 

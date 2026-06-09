@@ -87,18 +87,6 @@ Building AI powered security and deepfake detection systems while exploring LLM 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryakulkarnii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryakulkarnii&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryakulkarnii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
 
 ## 🎯 Current Focus & Learning
 

@@ -24,13 +24,27 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aaryakulkarnii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
 
+### `$ whoami`
 
-       Computer Science student at KJ Somaiya College of Engineering.
+```python
+class Aarya:
+    name        = "Aarya Kulkarni"
+    location    = "Mumbai, India 🇮🇳"
+    education   = "B.Tech CS @ KJ Somaiya (GPA: 9.0)"
+    focus       = ["AI/LLMs", "Cybersecurity", "Cloud"]
 
-Interested in AI, cybersecurity, cloud computing, and software engineering.
+    currently   = {
+        "building" : "SeeThru – Deepfake Detection",
+        "learning" : "LLM Agents & Cloud Security",
+        "hacking"  : "Everything in sight 🥷"
+    }
 
-Building AI powered security and deepfake detection systems while exploring LLM agents, SOC operations, and automation.
-
+    ask_me_about = [
+        "Prompt Engineering",
+        "SOC Operations",
+        "AI Product Dev",
+        "Automation Workflows"
+    ]
 ```
 
 <br clear="right"/>

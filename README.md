@@ -26,7 +26,7 @@
 
 ### `$ whoami`
 
-Computer Science student at KJ Somaiya College of Engineering
+Computer Science student at KJ Somaiya College of Engineering.
 
 Building AI-native systems at the intersection of cybersecurity, automation, and intelligence.
 

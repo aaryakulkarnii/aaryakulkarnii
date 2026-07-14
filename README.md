@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryakulkarnii)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nDPjO2QCoS/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarya.sk@somaiya.edu)
+[![Pull Requests](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:aaryakulkarnii+type:pr&label=Pull%20Requests&query=total_count&color=00D9FF&style=for-the-badge)](https://github.com/pulls?q=is%3Apr+author%3Aaaryakulkarnii)
 
 </div>
 

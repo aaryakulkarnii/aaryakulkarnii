@@ -71,7 +71,7 @@ I'm a Computer Science student at KJ Somaiya College of Engineering, building AI
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryakulkarnii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryakulkarnii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&count_private=true&cache_seconds=1" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryakulkarnii&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
